@@ -64,9 +64,9 @@ Automated acceptance output from the actual saved HTML:
   "static": {
     "lessons": 16,
     "quizzes": 16,
-    "unique_photos": 22,
-    "html_bytes": 16660681,
-    "sha256": "1804912b1069f38d8c8feb0b7db722d6e22ad7f8ca9a717d68059e0bd56adf6b"
+    "unique_photos": 21,
+    "html_bytes": 16605220,
+    "sha256": "a0e9c528e5350aa8cf87fa788682473f129257be9083a1b50de7ab3da6c9c000"
   },
   "all_16_navigation_images_quizzes_completion_reload": true,
   "previous_next": true,
@@ -140,17 +140,6 @@ No EXIF or capture settings are asserted for the images. Visual interpretations 
 - Access date: 2026-09-12
 - Modifications: Resized proportionally to maximum 1280 pixels and JPEG recompressed; no crop, blur, noise, or lighting alteration.
 - Embedded file SHA-256: `3f5e305fbe6991d57e1740fe9999a83f4f839d2f6d3a6ba3d5a09d63e8571067`
-
-### Photo 9: Gun dog running on grass.JPG
-
-- Photographer: Editor abcdef
-- Original source: https://commons.wikimedia.org/wiki/File:Gun_dog_running_on_grass.JPG
-- Original image: https://upload.wikimedia.org/wikipedia/commons/0/07/Gun_dog_running_on_grass.JPG
-- License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- Attribution: Editor abcdef; source and license linked above.
-- Access date: 2026-09-12
-- Modifications: Resized proportionally to maximum 1280 pixels and JPEG recompressed; no crop, blur, noise, or lighting alteration.
-- Embedded file SHA-256: `a26e31f7eeff5e9e316a6d965005678ab83fd5faae949b3c7cacb53f4102ffa2`
 
 ### Photo 12: Fitness enthusiast performs plank exercise at home on yoga mat.jpg
 
@@ -364,4 +353,4 @@ The HTML is offline-capable after download. A hosting link is public to anyone w
 
 Open https://louisleh.github.io/jen-photography-field-guide/ on a phone or computer. This is a public GitHub Pages site, not an access-controlled family account; no scheduled expiration. Repository: https://github.com/Louisleh/jen-photography-field-guide.
 
-Final HTTPS acceptance on 2026-09-12: HTTP200; hosted HTML matches the delivered file byte-for-byte; navigation, completion persistence after reload, troubleshooting and continued use after disconnecting the network passed; no JavaScript or browser-console errors. All34 unique external photo/source/license links returned200. See local qa/hosted-results.json and qa/source-link-checks.json for evidence. A loaded browser tab keeps working without the network, but a future cold offline visit to this hosted URL is not promised; save index.html for the fully self-contained offline edition.
+Final HTTPS acceptance on 2026-09-12: HTTP200; hosted HTML matches the delivered file byte-for-byte; navigation, completion persistence after reload, troubleshooting and continued use after disconnecting the network passed; no JavaScript or browser-console errors. All 33 unique external photo/source/license links returned200. See local qa/hosted-results.json and qa/source-link-checks.json for evidence. A loaded browser tab keeps working without the network, but a future cold offline visit to this hosted URL is not promised; save index.html for the fully self-contained offline edition.
