@@ -65,8 +65,8 @@ Automated acceptance output from the actual saved HTML:
     "lessons": 16,
     "quizzes": 16,
     "unique_photos": 22,
-    "html_bytes": 16660373,
-    "sha256": "0bd771f1b8ca000160ae587a9d320dedf69d67d9e7de2ccd089bdf17e583670e"
+    "html_bytes": 16660681,
+    "sha256": "1804912b1069f38d8c8feb0b7db722d6e22ad7f8ca9a717d68059e0bd56adf6b"
   },
   "all_16_navigation_images_quizzes_completion_reload": true,
   "previous_next": true,
