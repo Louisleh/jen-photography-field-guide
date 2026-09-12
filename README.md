@@ -359,3 +359,9 @@ Source modules, generation scripts, official-source snapshots and QA evidence re
 ## Sharing
 
 The HTML is offline-capable after download. A hosting link is public to anyone with its address; it is not access-controlled. A noindex request discourages indexing but is not a privacy boundary. No analytics or external image/font requests are part of the course. Browser progress stays on that origin; export/import moves it between the hosted site and a local file.
+
+## Shareable edition
+
+Open https://louisleh.github.io/jen-photography-field-guide/ on a phone or computer. This is a public GitHub Pages site, not an access-controlled family account; no scheduled expiration. Repository: https://github.com/Louisleh/jen-photography-field-guide.
+
+Final HTTPS acceptance on 2026-09-12: HTTP200; hosted HTML matches the delivered file byte-for-byte; navigation, completion persistence after reload, troubleshooting and continued use after disconnecting the network passed; no JavaScript or browser-console errors. All34 unique external photo/source/license links returned200. See local qa/hosted-results.json and qa/source-link-checks.json for evidence. A loaded browser tab keeps working without the network, but a future cold offline visit to this hosted URL is not promised; save index.html for the fully self-contained offline edition.
